@@ -13,6 +13,16 @@
 🔭 I’m currently working with **Education datasets**
  
  🌱 I’m currently learning **Azure, Power Bi, Tableau, AWS**
+
+ ⚡ My interests are in Volleyball, Gaming, Technology, Cultures from around the world and Household datasets
+  </div>
+ 
+<div align="center"> 
+  <a href="https://linkedin.com/in/ricky-j-7299b5a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+   </a>
+</div>
 <!--
 **rickycdc/rickycdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
