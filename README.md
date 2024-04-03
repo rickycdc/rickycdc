@@ -10,7 +10,9 @@
 
 <div align="center">
 
-
+🔭 I’m currently working with **Education datasets**
+ 
+ 🌱 I’m currently learning **Azure, Power Bi, Tableau, AWS**
 <!--
 **rickycdc/rickycdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
