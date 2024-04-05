@@ -18,7 +18,7 @@
   </div>
  
 <div align="center"> 
-  <a href="https://linkedin.com/in/ricky-j-7299b5a1" target="_blank">
+  <a href="https://linkedin.com/in/ricky-da-jaya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    </a>
